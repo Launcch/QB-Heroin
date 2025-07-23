@@ -8,4 +8,6 @@ i miss spelt heroin with herion in lots of spots but just leave it the actual it
 add this to qb-core/shared/items.lua
 
 ['opium_sap']	= {['name'] = 'opium_sap', ['label'] = 'Opium Sap', ['weight'] = 50,['type'] = 'item',	['image'] = 'opiumsap.png',	['unique'] = false,		['useable'] = false,	['shouldClose'] = false,	['combinable'] = nil,	['description'] = 'Gooey Opium Sap.'},
+
+
 ['heroin_bag']	= {['name'] = 'heroin_bag',	['label'] = 'Heroin Bag', ['weight'] = 600,	['type'] = 'item', ['image'] = 'herion_bag.png',	['unique'] = false,	['useable'] = false, ['shouldClose'] = false,	['combinable'] = nil,	['description'] = 'Bag of Finest H'},
